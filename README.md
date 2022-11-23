@@ -45,7 +45,7 @@ notebook.
 “Model Tuning” section if you’re limited for time. The Evaluation section uses
 the best metrics found in that section.
 
-  b. At the end of the notebook, the Try It section has user interaction capabilities so
+    b. At the end of the notebook, the Try It section has user interaction capabilities so
 you can interact with the notebook
 
 8. Navigate through the Problem Definition section and Data section. Run the cells to see
@@ -57,8 +57,7 @@ relationships and variances in the data.
 10. Run the cells in the Model Tuning section to view hyperparameter tuning methods used
 and metrics changes.
 
-  a. Please note: these may take some time to run. It’s not necessary to run these as the
-best parameters found are used in the Evaluation section
+    a. Please note: these may take some time to run. It’s not necessary to run these as the best parameters found are used in the Evaluation section
 
 11. In the Evaluation Section, run the cell to view the final model’s metrics tested on the
 never-been-used Test data
