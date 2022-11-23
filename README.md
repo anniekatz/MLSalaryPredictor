@@ -11,13 +11,21 @@ keyboard, and modern CPU (capable of running the model) are required.
 
 2. Please ensure every Python package below is installed. You may install these using pip,
 conda, or another Python package installation tool.
-  a. Packages to install include:
-    i. python3
-    ii. scikit-learn
-    iii. pandas
-    iv. numpy
-    v. jupyter
-    vi. matplotlib
+
+    a. Packages to install include:
+    
+      i. python3
+      
+      ii. scikit-learn
+      
+      iii. pandas
+      
+      iv. numpy
+      
+      v. jupyter
+      
+      vi. matplotlib
+      
     
 3. Once every Python package required has been installed, enter your environment using the
 command line.
@@ -33,9 +41,10 @@ browser
 You can run the notebook as a whole by clicking the double arrows at the top of the
 notebook.
 
-  a. Note: You do not need to run RandomizedSearchCV or GridSearch cells in the
+    a. Note: You do not need to run RandomizedSearchCV or GridSearch cells in the
 “Model Tuning” section if you’re limited for time. The Evaluation section uses
 the best metrics found in that section.
+
   b. At the end of the notebook, the Try It section has user interaction capabilities so
 you can interact with the notebook
 
