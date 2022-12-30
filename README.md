@@ -1,4 +1,4 @@
-# MLSalaryPredictor
+# Salary Predictor
 Random Forest Regression machine learning model to predict salary of a specific tech job (based on levels.fyi anonymous salary data)
 
 # Installation and User Guide
